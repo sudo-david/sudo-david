@@ -10,12 +10,14 @@
 
 ### 🚀 Sobre mí
 
-Estoy terminando mis estudios técnicos en Medellín, Colombia, antes de continuar hacia un programa tecnológico de mayor nivel. Me apasiona el desarrollo full stack — desde diseñar un esquema de base de datos hasta depurar bugs de integración en el frontend. Construyo proyectos reales para aprender más rápido.
+Ingeniería de Sistemas, casi en la recta final de mis estudios técnicos en Medellín, con la mira puesta en un programa tecnológico de mayor nivel. Entre clases he preferido aprender construyendo: **RutaXRuta** me llevó a lidiar con mapas interactivos y geolocalización en tiempo real, y **NEXUS** a diseñar una base de datos relacional desde cero y defenderla en sustentación.
 
-- 🔭 Actualmente trabajando en proyectos full stack con **Next.js**, **Flask** y **MySQL**
-- 🌱 Preparándome para dar el salto a un programa tecnológico de nivel superior
-- 💬 Pregúntame sobre Python, Flask, React o bases de datos relacionales
-- 📫 Contáctame: **david11duquev@gmail.com**
+Me interesa el desarrollo full stack completo — desde modelar el esquema de una base de datos hasta resolver por qué una animación rompe el layout en mobile. Ahora sumando Java y Spring Boot al stack.
+
+- 🔭 Trabajando en proyectos full stack con **Next.js**, **Flask** y **MySQL**
+- 🌱 Ampliando mi stack hacia **Java** y **Spring Boot**
+- 💬 Abierto a hablar de Python, Flask, React o diseño de bases de datos
+- 📫 **david11duquev@gmail.com**
 
 ---
 
