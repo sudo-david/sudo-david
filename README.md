@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="readme_header.png" alt="David Duque Vélez" width="100%" />
+  <img src="readme_header.svg" alt="David Duque Vélez" width="100%" />
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="30" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=27C93F&center=true&vCenter=true&width=500&lines=Construyendo+proyectos+full+stack;Python+%7C+Flask+%7C+Next.js+%7C+React;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
@@ -81,6 +82,14 @@ Sumando **Java** y **Spring Boot** a mi stack para tener una base sólida en des
 
 ---
 
+### 📈 Gráfico de actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-david&bg_color=0d1512&color=27c93f&line=27c93f&point=eafff0&area=true&hide_border=true" />
+</p>
+
+---
+
 ### 📬 Conéctate conmigo
 
 <p align="left">
@@ -98,3 +107,5 @@ Sumando **Java** y **Spring Boot** a mi stack para tener una base sólida en des
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sudo-david&style=flat-square&color=27c93f" alt="visitor badge" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1f9d55&height=100&section=footer"/>
