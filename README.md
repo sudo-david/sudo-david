@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="README.md">🇪🇸</a> · <a href="README_en.md">🇺🇸</a>
+  <a href="README.md"><img src="https://flagcdn.com/24x18/es.png" alt="Español" /></a> · <a href="README_en.md"><img src="https://flagcdn.com/24x18/us.png" alt="English" /></a>
 </p>
 
 <p align="center">
