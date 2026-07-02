@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="README.md">🇪🇸 Español</a> · <a href="README_en.md">🇬🇧 English</a>
+</p>
+
+<p align="center">
   <img src="readme_header.png" alt="David Duque Vélez" width="100%" />
 </p>
 
