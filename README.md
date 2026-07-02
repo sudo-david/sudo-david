@@ -12,12 +12,20 @@
 
 Ingeniería de Sistemas, casi en la recta final de mis estudios técnicos en Medellín, con la mira puesta en un programa tecnológico de mayor nivel. Entre clases he preferido aprender construyendo: **RutaXRuta** me llevó a lidiar con mapas interactivos y geolocalización en tiempo real, y **NEXUS** a diseñar una base de datos relacional desde cero y defenderla en sustentación.
 
-Me interesa el desarrollo full stack completo — desde modelar el esquema de una base de datos hasta resolver por qué una animación rompe el layout en mobile. Ahora sumando Java y Spring Boot al stack.
+Me interesa el desarrollo full stack completo — desde modelar el esquema de una base de datos hasta resolver por qué una animación rompe el layout en mobile.
 
 - 🔭 Trabajando en proyectos full stack con **Next.js**, **Flask** y **MySQL**
-- 🌱 Ampliando mi stack hacia **Java** y **Spring Boot**
 - 💬 Abierto a hablar de Python, Flask, React o diseño de bases de datos
 - 📫 **david11duquev@gmail.com**
+
+---
+
+### 🧩 Lo que me gusta resolver
+
+- Bugs de integración entre frontend y backend — el tipo de error que solo aparece al conectar todo
+- Diseño de esquemas de bases de datos: normalización, relaciones N:M, claves foráneas bien pensadas
+- Problemas de responsividad que rompen en mobile aunque en desktop todo se ve perfecto
+- Decisiones de arquitectura simples: cuándo una solución mínima es mejor que una "elegante"
 
 ---
 
@@ -26,6 +34,16 @@ Me interesa el desarrollo full stack completo — desde modelar el esquema de un
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,js,java,spring,mysql,tailwind,git" />
 </p>
+
+---
+
+### 📚 Actualmente aprendiendo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+Sumando **Java** y **Spring Boot** a mi stack para tener una base sólida en desarrollo backend orientado a objetos, de cara a mi próximo programa tecnológico.
 
 ---
 
@@ -47,14 +65,6 @@ Me interesa el desarrollo full stack completo — desde modelar el esquema de un
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-david&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudo-david&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
