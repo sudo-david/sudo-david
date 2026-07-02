@@ -22,7 +22,7 @@ Estoy terminando mis estudios técnicos en Medellín, Colombia, antes de continu
 ### 🛠️ Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,js,mysql,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,js,java,spring,mysql,tailwind,git" />
 </p>
 
 ---
