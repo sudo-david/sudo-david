@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=27C93F&center=true&vCenter=true&width=500&lines=Construyendo+proyectos+full+stack;Python+%7C+Flask+%7C+Next.js+%7C+React;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1f9d55&height=60&section=header" />
-</p>
+---
 
 ### 🚀 Sobre mí
 
@@ -19,9 +17,7 @@ Estoy terminando mis estudios técnicos en Medellín, Colombia, antes de continu
 - 💬 Pregúntame sobre Python, Flask, React o bases de datos relacionales
 - 📫 Contáctame: **david11duquev@gmail.com**
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1f9d55&height=60&section=header" />
-</p>
+---
 
 ### 🛠️ Stack tecnológico
 
@@ -29,9 +25,7 @@ Estoy terminando mis estudios técnicos en Medellín, Colombia, antes de continu
   <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,js,mysql,tailwind,git" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1f9d55&height=60&section=header" />
-</p>
+---
 
 ### 💼 Proyectos destacados
 
@@ -40,9 +34,7 @@ Estoy terminando mis estudios técnicos en Medellín, Colombia, antes de continu
 | 🚗 **[RutaXRuta](https://github.com/sudo-david/rutaxruta)** | App de carpooling con mapas interactivos para coordinar rutas compartidas | `Next.js` `React` `Tailwind` `Leaflet.js` `MySQL` |
 | 🌐 **NEXUS** | Red social construida como proyecto de bases de datos — CRUD completo, autenticación segura, arquitectura Blueprint | `Flask` `MySQL` `Tailwind` `bcrypt` |
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1f9d55&height=60&section=header" />
-</p>
+---
 
 ### 📊 Estadísticas de GitHub
 
@@ -55,9 +47,7 @@ Estoy terminando mis estudios técnicos en Medellín, Colombia, antes de continu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-david&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1f9d55&height=60&section=header" />
-</p>
+---
 
 ### 🏆 Trofeos
 
@@ -65,19 +55,15 @@ Estoy terminando mis estudios técnicos en Medellín, Colombia, antes de continu
   <img src="https://github-profile-trophy.vercel.app/?username=sudo-david&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1f9d55&height=60&section=header" />
-</p>
+---
 
 ### 🐍 Actividad de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sudo-david/sudo-david/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sudo-david/sudo-david/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=1f9d55&height=60&section=header" />
-</p>
+---
 
 ### 📬 Conéctate conmigo
 
